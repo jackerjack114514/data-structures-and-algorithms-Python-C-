@@ -1,1 +1,1 @@
-# data-structures-and-algorithms-Python-C-
+# data structures and algorithms (Python&C++)
